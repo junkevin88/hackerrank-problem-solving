@@ -1,0 +1,22 @@
+
+`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+g
+java:S2095@"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ
+a
+java:S1659"?Declare "st" and all following declarations on a separate line.(ò¾Ú›üÿÿÿÿ8®ÊÎæ0
+h
+java:S6204M"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥
+C
+java:S1128"&Remove this unused import 'java.math'.(âî©8éËÎæ0
+G
+java:S1128"*Remove this unused import 'java.security'.(èÛò§8éËÎæ0
+C
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí8éËÎæ0
+M
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íĞ¢68êËÎæ0
+L
+java:S1128"/Remove this unused import 'java.util.function'.(Üş’¿8êËÎæ0
+I
+java:S1128	",Remove this unused import 'java.util.regex'.(£‘¬Ş8êËÎæ0
+b
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ8ëËÎæ0
