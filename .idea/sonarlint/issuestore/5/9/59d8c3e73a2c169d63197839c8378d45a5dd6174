@@ -1,0 +1,27 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¯¹Óýÿÿÿÿ
+g
+java:S2095&"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ð¢Å–þÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(õÉ±¼üÿÿÿÿ
+K
+java:S1854("5Remove this useless assignment to local variable "n".(·Íå‹
+<
+java:S1481("&Remove this unused "n" local variable.(·Íå‹
+h
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥
+<
+java:S1128"&Remove this unused import 'java.math'.(âî©
+@
+java:S1128"*Remove this unused import 'java.security'.(èÛò§
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí
+F
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íÐ¢6
+E
+java:S1128	"/Remove this unused import 'java.util.function'.(Üþ’¿
+B
+java:S1128
+",Remove this unused import 'java.util.regex'.(£‘¬Þ
+[
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âþÿÿÿÿ
