@@ -1,38 +1,39 @@
-package feb202023;
+package feb21022023;
 
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-
-
-class ResultFindTheMedian {
+class ResultCountingSort {
 
     /*
-     * Complete the 'findMedian' function below.
+     * Complete the 'countingSort' function below.
      *
-     * The function is expected to return an INTEGER.
+     * The function is expected to return an INTEGER_ARRAY.
      * The function accepts INTEGER_ARRAY arr as parameter.
      */
 
-    public static int findMedian(List<Integer> arr) {
+    public static List<Integer> countingSort(List<Integer> arr) {
         // Write your code here
-        Collections.sort(arr);
-        return arr.get(arr.size() / 2);
-
+        int[] counts = new int[100];
+        for (int i = 0; i < arr.size(); i++) {
+            int num = arr.get(i);
+            counts[num]++;
+        }
+        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < 100; i++) {
+            result.add(counts[i]);
+        }
+        return result;
     }
 
-}
 
-public class FindTheMedian {
+        }
+
+
+public class CountingSort {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
@@ -43,10 +44,14 @@ public class FindTheMedian {
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        int result = ResultFindTheMedian.findMedian(arr);
+        List<Integer> result = ResultCountingSort.countingSort(arr);
 
-        bufferedWriter.write(String.valueOf(result));
-        bufferedWriter.newLine();
+        bufferedWriter.write(
+                result.stream()
+                        .map(Object::toString)
+                        .collect(joining(" "))
+                        + "\n"
+        );
 
         bufferedReader.close();
         bufferedWriter.close();
