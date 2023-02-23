@@ -1,26 +1,0 @@
-
-g	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ŠÌÈÀç0
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ªúëùÿÿÿÿ
-n
-java:S2095+"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ8·ÌÈÀç0
-\
-java:S1118":Add a private constructor to hide the implicit public one.(¯ŠëÄûÿÿÿÿ8ºÌÈÀç0
-C
-java:S1128"&Remove this unused import 'java.math'.(âî©8ùÍÉÀç0
-G
-java:S1128"*Remove this unused import 'java.security'.(èÛò§8ùÍÉÀç0
-C
-java:S1128"&Remove this unused import 'java.text'.(ë¼Èí8ùÍÉÀç0
-C
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8úÍÉÀç0
-M
-java:S1128"1Remove this unused import 'java.util.concurrent'.(íĞ¢68ûÍÉÀç0
-L
-java:S1128	"/Remove this unused import 'java.util.function'.(Üş’¿8ûÍÉÀç0
-I
-java:S1128
-",Remove this unused import 'java.util.regex'.(£‘¬Ş8ûÍÉÀç0
-b
-java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ8üÍÉÀç0
-\
-java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8ıÍÉÀç0

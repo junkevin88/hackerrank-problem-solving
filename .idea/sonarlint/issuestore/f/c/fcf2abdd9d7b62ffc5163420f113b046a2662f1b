@@ -1,16 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¾Àşøÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ªúëùÿÿÿÿ
-l
-java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
-‚
-java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¤’Ÿ
-@
-java:S1197"*Move the array designators [] to the type.(ò¢£»
-U	java:S106'"9Replace this use of System.out or System.err by a logger.(éÓò8¦Ø¹Àç0
-U	java:S106("9Replace this use of System.out or System.err by a logger.( Å—³8…ÿÆÀç0
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8†ÿÆÀç0
-@
-java:S1128"$Remove this unused import 'java.io'.(¬›ãD8¯½ê¾ç0
-C
-java:S1128"&Remove this unused import 'java.math'.(âî©8¯½ê¾ç0
