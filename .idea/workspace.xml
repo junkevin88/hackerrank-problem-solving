@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc2b8910-0f84-4f83-a77c-41873fca9808" name="Changes" comment="add basic test">
-      <change afterPath="$PROJECT_DIR$/src/feb232023/MergeTwoSortedLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feb232023/NewYearChaos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feb232023/RecursiveDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feb232023/TruckTour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07e31e7eafb9da8c12fb42311173d6d8207afbc3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2471480c485788f8624e0da67636e778742f6636" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42494998bbbf14c3fad2faf3c7d89d5235f58f5a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59d8c3e73a2c169d63197839c8378d45a5dd6174" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69db7dc4a0a7ddbc1a7f4556aef2c1d88f69bf2f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/9894c75b46d70b55617f3abd4cafae6a8fd409ca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa2b851ed7b90142f0e73e400cf46852a5830f22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0a885b8614ba8c8428697ab8aede257dab480c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1aab593564ddd8ad6dffcc0f4e748342c349430" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fcf2abdd9d7b62ffc5163420f113b046a2662f1b" beforeDir="false" />
+    <list default="true" id="cc2b8910-0f84-4f83-a77c-41873fca9808" name="Changes" comment="add problem 23022023">
+      <change afterPath="$PROJECT_DIR$/src/feb242023/JesseAndCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb242023/QueueUsingTwoStacks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -108,7 +96,9 @@
       <workItem from="1676889099040" duration="1498000" />
       <workItem from="1676964480711" duration="3647000" />
       <workItem from="1677047070841" duration="4780000" />
-      <workItem from="1677139599084" duration="1272000" />
+      <workItem from="1677139599084" duration="1388000" />
+      <workItem from="1677159837089" duration="619000" />
+      <workItem from="1677198979550" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="add basic test">
       <created>1676813917673</created>
@@ -117,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676813917673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add problem 23022023">
+      <created>1677140972304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677140972304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add basic test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add basic test" />
+    <MESSAGE value="add problem 23022023" />
+    <option name="LAST_COMMIT_MESSAGE" value="add problem 23022023" />
   </component>
 </project>

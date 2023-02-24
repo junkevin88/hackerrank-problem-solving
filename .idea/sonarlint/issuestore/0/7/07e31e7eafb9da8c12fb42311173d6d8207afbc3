@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¯¹Óıÿÿÿÿ
+n
+java:S2095,"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ8¢Ğªêæ0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(È’§şÿÿÿÿ8¤Ğªêæ0
+b
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ8ªÀ«êæ0
