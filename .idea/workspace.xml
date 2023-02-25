@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc2b8910-0f84-4f83-a77c-41873fca9808" name="Changes" comment="add problem 23022023">
-      <change afterPath="$PROJECT_DIR$/src/feb242023/JesseAndCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feb242023/QueueUsingTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb242023/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb242023/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb252023/BreadthFirstSearchShortestReach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb252023/LegoBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb252023/NoPrefixSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb252023/SimpleTextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb252023/TreeHuffmanDecoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb252023/TreePreorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -98,7 +104,9 @@
       <workItem from="1677047070841" duration="4780000" />
       <workItem from="1677139599084" duration="1388000" />
       <workItem from="1677159837089" duration="619000" />
-      <workItem from="1677198979550" duration="1015000" />
+      <workItem from="1677198979550" duration="3413000" />
+      <workItem from="1677298234714" duration="1031000" />
+      <workItem from="1677327205823" duration="3674000" />
     </task>
     <task id="LOCAL-00001" summary="add basic test">
       <created>1676813917673</created>
@@ -114,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677140972304</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add problem 23022023">
+      <created>1677200272815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677200272815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
